@@ -1,0 +1,10 @@
+ to write python in server side - flask and django
+
+
+by default--
+static folder is public
+templates if private
+
+
+jinja template - apke python program se kaise file serve kr ske hai... for loop kr skte hai within template.
+

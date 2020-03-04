@@ -1,0 +1,1 @@
+# apke python program se kaise file serve kr ske hai... for loop kr skte hai within template.

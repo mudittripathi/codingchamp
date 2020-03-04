@@ -1,0 +1,24 @@
+{
+   "params":
+   {
+     "local_server": "True",
+     "local_uri": "mysql://root:@localhost/blog_db",
+     "prod_uri": "mysql://root:@localhost/blog_db",
+     "fb_url": "https://www.facebook.com/Thecodingchamp",
+     "tw_url": "https:/www.twitter.com/Thecodingchamp",
+     "gh_url": "https:/github.com/Thecodingchamp",
+     "blog_name": "Coding Champ",
+     "tag_line": "A blog by programmers",
+     "gmail-user": "hankshcra@gmail.com",
+     "gmail-password": "Agentshrader@123",
+     "about_text": "Hi my name is Hank, I create programming blog",
+     "no_of_posts": 2,
+     "loggin_image": "loggin.svg",
+     "admin_user": "hank",
+     "admin_password": "breakingbad",
+     "upload_location": "C:\\Users\\MuditTripathi\\PycharmProjects\\Flasktuts\\static"
+
+   }
+
+
+}
